@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input renders correctly 1`] = `
+<div
+  className="sc-bdVaJa ciFTBY"
+>
+  <div
+    className="sc-bwzfXH gxYlwT"
+  >
+    <input
+      className="sc-htpNat gdCsUx"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="0000 0000 0000 0000"
+      type="text"
+      value=""
+    />
+    <div
+      className="sc-bxivhb dzCHsK"
+      onClick={[Function]}
+    >
+      <span
+        aria-hidden={true}
+        className="fa fa-cc- fa-2x"
+      />
+    </div>
+  </div>
+</div>
+`;
