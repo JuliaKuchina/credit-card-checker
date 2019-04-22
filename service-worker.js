@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/credit-card-checker/precache-manifest.437ccec008241c7d6009e8a281e86fe5.js"
+  "/credit-card-checker/precache-manifest.2538073682ea3bf26bf7a6b6aa3edc76.js"
 );
 
 workbox.clientsClaim();
